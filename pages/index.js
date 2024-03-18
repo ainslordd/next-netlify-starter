@@ -1,45 +1,52 @@
-<title>Hacked by *AmaZinG*!</title>
-<body bgcolor="Black" />
-<body oncontextmenu="return false" onselectstart="return false" ondragstart="return false"></body>
-<**** name="description" content="This Site has been Hacked by *AmaZinG*!" />
-<img align="left" src="http://i564.photobucket.com/albums/ss87/Mafya_67/zix0zc.png" />
-<img align="right" src="http://i564.photobucket.com/albums/ss87/Mafya_67/66da48.png" />
-<center><img src="http://i564.photobucket.com/albums/ss87/Mafya_67/logo.png" /></center>
-<br />
-<script type="text/javascript">
-
-var texte=new Array ();
-texte[0]="http://www.turkhackteam.net";
-texte[1]="Ya Kan Kustururum<br />Yada Tam Sustururum!";
-texte[2]="Benden ders almayanlar,<br />Aleme ders konusu olur.";
-var geschwindigkeit=2000;
-var a=0;
-
-function text_wechsel ()
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>HACKED</title>
+<**** http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+<**** name="generator" content="Web Page Maker">
+<style type="text/css">
+/*----------Text Styles----------*/
+.ws6 {font-size: 8px;}
+.ws7 {font-size: 9.3px;}
+.ws8 {font-size: 11px;}
+.ws9 {font-size: 12px;}
+.ws10 {font-size: 13px;}
+.ws11 {font-size: 15px;}
+.ws12 {font-size: 16px;}
+.ws14 {font-size: 19px;}
+.ws16 {font-size: 21px;}
+.ws18 {font-size: 24px;}
+.ws20 {font-size: 27px;}
+.ws22 {font-size: 29px;}
+.ws24 {font-size: 32px;}
+.ws26 {font-size: 35px;}
+.ws28 {font-size: 37px;}
+.ws36 {font-size: 48px;}
+.ws48 {font-size: 64px;}
+.ws72 {font-size: 96px;}
+.wpmd {font-size: 13px;font-family: Arial,Helvetica,Sans-Serif;font-style: normal;font-weight: normal;}
+/*----------Para Styles----------*/
+DIV,UL,OL /* Left */
 {
-if (window.********.getElementById)
-{
-window.********.getElementById ("textfeld").innerHTML=texte[a];
-if ((a+1)<texte.length)
-{
-a++;
+ margin-top: 0px;
+ margin-bottom: 0px;
 }
-else
-{
-a=0;
-}
-window.setTimeout ("text_wechsel ()",geschwindigkeit);
-}
-}
+</style>
 
-window.onload=text_wechsel;
+</head>
+<body background="http://i.imgur.com/vcZ9X.png">
+<div id="image1" style="position:absolute; overflow:hidden; left:0px; top:0px; width:1600px; height:731px; z-index:0"><img src="http://i.imgur.com/z0cQj.jpg" alt="" title="" border=0 width=1600 height=731></div>
 
-</script>
-<div align="center" id="textfeld" style="font-family:Courier New,Arial,Verdana,Tahoma,helvetica,sans-serif,Times New Roman;font-size:25pt;color:red">
-</div>
-<br /><br />
-<div style="text-align: center; "><span class="Apple-style-span" style="color: rgb(255, 255, 255); font-family: Arial, Tahoma, Verdana; font-size: 20px; font-weight: bold; ">Sorry Admin, The Game is 0ver!</span></div>
-<center><img src="http://i297.photobucket.com/albums/mm234/DonTomika/cmd.gif" /></center>
-<br />
-<center><img src="http://e1205.hizliresim.com/x/j/5z8sq.jpg" /></center>
-<EMBED src="http://uploads3.mp3songurls.com/1223303.mp3" width=0 height=0 type=audio/mpeg loop="true" autostart="true"></embed>
+<div id="text1" style="position:absolute; overflow:hidden; left:379px; top:747px; width:810px; height:197px; z-index:1">
+<div class="wpmd">
+<div align=center><font color="#FF0000" face="Gorilla Milkshake" class="ws72">hacked</font></div>
+<div><font color="#FFFFFF" face="Gorilla Milkshake" class="ws72">from</font></div>
+</div></div>
+
+<div id="image2" style="position:absolute; overflow:hidden; left:346px; top:952px; width:830px; height:193px; z-index:2"><img src="http://i.imgur.com/sq2MZ.gif" alt="" title="" border=0 width=830 height=193></div>
+
+<div id="image3" style="position:absolute; overflow:hidden; left:465px; top:1170px; width:520px; height:490px; z-index:3"><img src="http://i.imgur.com/LQVNY.png" alt="" title="" border=0 width=520 height=490></div>
+
+
+</body>
+</html>
